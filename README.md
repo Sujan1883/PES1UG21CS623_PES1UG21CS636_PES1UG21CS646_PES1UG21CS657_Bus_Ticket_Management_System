@@ -1,1 +1,1 @@
-push the bin , main, test, floders in src folder.
+push the bin , main, test, folders in src folder.
