@@ -1,1 +1,3 @@
-this is a bus ticket booking system using java spring boot, jsp files for frontend
+Bus Ticket Booking System
+Change Database Configurations In application.properties file.
+Run mvn spring-boot:run
